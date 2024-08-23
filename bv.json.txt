@@ -1,0 +1,29 @@
+[
+    {
+        "domain": "bachviet.pro",
+        "expirationDate": 1725416436.177561,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "UserSettings",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "luan"
+    },
+    {
+        "domain": "bachviet.pro",
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "ASP.NET_SessionId",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": false,
+        "session": true,
+        "storeId": null,
+        "value": "jp1a0bydnjaguhvq4ry3lzxa"
+    }
+]
+luan
+7l6781jIAh0m
