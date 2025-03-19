@@ -4,6 +4,9 @@
 #EXT-X-TARGETDURATION:13
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:3.500000,
+https://cdn-uploads.huggingface.co/production/uploads/661a77273557013b637ccf2b/-6CO6JiHuo4SD4gxG2l4R.gif
+#EXT-X-DISCONTINUITY
 #EXTINF:11.011000,
 https://cdn-uploads.huggingface.co/production/uploads/661a77273557013b637ccf2b/5Sd1L-AQGSDoMHWxYN5EM.gif
 #EXTINF:10.427089,
